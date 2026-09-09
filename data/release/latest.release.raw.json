@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10598976,
       "digest": "sha256:25d46ae4aa84c8e898a1f3cb6315e5a0c7f4e2962835c5510102e56cfe1303a4",
-      "download_count": 202,
+      "download_count": 207,
       "created_at": "2026-06-27T15:05:20Z",
       "updated_at": "2026-06-27T15:05:21Z",
       "browser_download_url": "https://github.com/TomWright/dasel/releases/download/v3.11.2/dasel_darwin_amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9856210,
       "digest": "sha256:63407a21f1354dda62c7f015e5262a91b05ce20a858406e2aeac3e5fc614f355",
-      "download_count": 299,
+      "download_count": 304,
       "created_at": "2026-06-27T15:05:12Z",
       "updated_at": "2026-06-27T15:05:13Z",
       "browser_download_url": "https://github.com/TomWright/dasel/releases/download/v3.11.2/dasel_darwin_arm64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10477730,
       "digest": "sha256:5006ee3a4239ab6a3edb1bf5c932874d814f7c276117ca677352697a4f547799",
-      "download_count": 478083,
+      "download_count": 484542,
       "created_at": "2026-06-27T15:05:16Z",
       "updated_at": "2026-06-27T15:05:16Z",
       "browser_download_url": "https://github.com/TomWright/dasel/releases/download/v3.11.2/dasel_linux_amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3984134,
       "digest": "sha256:1af4fc41087c91dd59ab10aa13dc66a87d291e26b24bdec51480fe96cfd3ccf1",
-      "download_count": 607,
+      "download_count": 611,
       "created_at": "2026-06-27T15:05:17Z",
       "updated_at": "2026-06-27T15:05:17Z",
       "browser_download_url": "https://github.com/TomWright/dasel/releases/download/v3.11.2/dasel_linux_amd64.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 9765026,
       "digest": "sha256:df33920a792cd8ee5573cec3632a710cd2178d7bc4fc3892c6be78f35e7cbcc6",
-      "download_count": 380,
+      "download_count": 389,
       "created_at": "2026-06-27T15:05:14Z",
       "updated_at": "2026-06-27T15:05:15Z",
       "browser_download_url": "https://github.com/TomWright/dasel/releases/download/v3.11.2/dasel_linux_arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10756608,
       "digest": "sha256:7f37a5aba88c702884edca3bcf2ad0a67b3f2533cbfbf1f6bc414e25e2fe1d24",
-      "download_count": 764,
+      "download_count": 771,
       "created_at": "2026-06-27T15:04:54Z",
       "updated_at": "2026-06-27T15:04:55Z",
       "browser_download_url": "https://github.com/TomWright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe"
