@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.11.2"
   latestRelease: "v3.11.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:08:56Z
+  collectedAt: 2026-09-10T23:36:16Z
 timeline:
   created: 2020-09-22
   lastCommit: 2026-08-16
@@ -21,7 +21,7 @@ popularity:
   release: 110
   contributor: 32
   pullRequest: 236
-  issue: 207
+  issue: 206
 language:
   Go: 826409
   Dockerfile: 465
@@ -79,12 +79,12 @@ total:
   release: 110
   mergedPR: 189
   openPR: 10
-  closedIssue: 192
+  closedIssue: 191
   openIssue: 15
   commit: 878
 ---
 path: /home/runner/.x-repo/github.com/tomwright/dasel
-collectedAt: 2026-09-10T20:08:57Z
+collectedAt: 2026-09-10T23:36:17Z
 loc:
   Go:
     code: 29903
