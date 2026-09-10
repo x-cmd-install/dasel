@@ -1,0 +1,1104 @@
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.1
+  origversion: 3.11.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_3_17
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 1.27.3
+  origversion: 1.27.3-r5
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.2.0
+  origversion: 2.2.0-r5
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.5.0
+  origversion: 2.5.0-r3
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.7.0
+  origversion: 2.7.0-r2
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.7.0
+  origversion: 2.7.0-r2
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.7.0
+  origversion: 2.7.0-r2
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.7.0
+  origversion: 2.7.0-r2
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dasel-bin
+  binname: dasel-bin
+  visiblename: dasel-bin
+  version: 3.11.2
+  origversion: 3.11.2-1
+  status: newest
+  summary: Query and update data structures from the command line.
+  maintainers:
+    - zoorat@aur
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r16
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: dasel
+  binnames:
+    - dasel
+    - dasel-debuginfo
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-alt1
+  status: newest
+  summary: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool.
+  maintainers:
+    - zerospirit@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
+- repo: aur
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-1
+  status: newest
+  summary: Select, put and delete data from CSV, HCL, INI, JSON, KDL, TOML, XML and YAML files with a single CLI tool
+  maintainers:
+    - kseistrup@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.1
+  origversion: null
+  status: outdated
+  summary: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - puida@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - puida@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - puida@debian.org
+  categories:
+    - misc
+- repo: freebsd
+  srcname: textproc/dasel
+  binname: dasel
+  visiblename: textproc/dasel
+  version: 2.8.1
+  origversion: 2.8.1_14
+  status: outdated
+  summary: Query and update data structures from the command line
+  maintainers:
+    - lcook@freebsd.org
+  categories:
+    - textproc
+- repo: gentoo
+  srcname: app-misc/dasel
+  visiblename: app-misc/dasel
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Query, update and convert data structures from the command line
+  maintainers:
+    - zmedico@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - ISC
+  categories:
+    - app-misc
+- repo: gnuguix
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.1
+  origversion: null
+  status: outdated
+  summary: Tool to work with JSON, TOML, YAML, XML and CSV files
+- repo: homebrew
+  srcname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: null
+  status: newest
+  summary: JSON, YAML, TOML, XML, and CSV query and modification tool
+- repo: homebrew
+  srcname: dasel
+  visiblename: dasel
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: JSON, YAML, TOML, XML, and CSV query and modification tool
+- repo: kali_rolling
+  subrepo: main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - puida@debian.org
+  categories:
+    - misc
+- repo: liguros_stable
+  srcname: app-misc/dasel
+  visiblename: app-misc/dasel
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Query, update and convert data structures from the command line
+  maintainers:
+    - zmedico@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - ISC
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/dasel
+  visiblename: app-misc/dasel
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Query, update and convert data structures from the command line
+  maintainers:
+    - zmedico@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - ISC
+  categories:
+    - app-misc
+- repo: macports
+  srcname: textproc/dasel
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: null
+  status: newest
+  summary: Query and update JSON, TOML, YAML and XML from the command line.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - textproc
+- repo: nix_stable_24_05
+  srcname: dasel
+  visiblename: dasel
+  version: 2.7.0
+  origversion: null
+  status: outdated
+  summary: Query and update data structures from the command line
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: null
+  status: outdated
+  summary: Query and update data structures from the command line
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: null
+  status: outdated
+  summary: Query and update data structures from the command line
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: null
+  status: outdated
+  summary: Query and update data structures from the command line
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: dasel
+  visiblename: dasel
+  version: 3.8.1
+  origversion: null
+  status: outdated
+  summary: Query and update data structures from the command line
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: null
+  status: newest
+  summary: Query and update data structures from the command line
+  maintainers:
+    - mail-maintainer@0x4a6f.dev
+  licenses:
+    - MIT
+- repo: openpkg_current
+  srcname: dasel
+  visiblename: dasel
+  version: 3.2.0.20251228
+  origversion: null
+  status: outdated
+  summary: YAML/JSON/TOML/XML Convert/Query/Edit/Delete Tool
+  licenses:
+    - MIT
+  categories:
+    - Text
+- repo: parrot
+  subrepo: parrot/main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - misc
+- repo: pkgsrc_2026_1
+  srcname: textproc/dasel
+  binname: dasel
+  visiblename: textproc/dasel
+  version: 3.4.0
+  origversion: 3.4.0nb1
+  status: outdated
+  summary: Select, put and delete data from JSON, TOML, YAML, XML and CSV
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_2
+  srcname: textproc/dasel
+  binname: dasel
+  visiblename: textproc/dasel
+  version: 3.11.0
+  origversion: 3.11.0nb2
+  status: outdated
+  summary: Select, put and delete data from JSON, TOML, YAML, XML and CSV
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/dasel
+  binname: dasel
+  visiblename: textproc/dasel
+  version: 3.11.2
+  origversion: 3.11.2nb5
+  status: newest
+  summary: Select, put and delete data from JSON, TOML, YAML, XML and CSV
+  maintainers:
+    - drixter@e-utp.net
+  categories:
+    - textproc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - golang
+- repo: raspbian_stable
+  subrepo: main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - puida@debian.org
+  categories:
+    - misc
+- repo: scoop
+  subrepo: extras
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: termux
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: null
+  status: newest
+  summary: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility
+  maintainers:
+    - termux@github
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.6.0
+  origversion: 2.6.0-1ubuntu0.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - guilherme@puida.xyz
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.6.0
+  origversion: 2.6.0-1build1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - guilherme@puida.xyz
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1build1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - puida@debian.org
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1_2
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - daniel.eysser@gmail.com
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.0
+  origversion: 3.11.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.10.1
+  origversion: 3.10.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.8.1
+  origversion: 3.8.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.8.0
+  origversion: 3.8.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.4.1
+  origversion: 3.4.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.4.0
+  origversion: 3.4.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.3.1
+  origversion: 3.3.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.3.0
+  origversion: 3.3.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.3
+  origversion: 3.2.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.2
+  origversion: 3.2.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.1
+  origversion: 3.2.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.0
+  origversion: 3.2.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.1.4
+  origversion: 3.1.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.1.3
+  origversion: 3.1.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.1.2
+  origversion: 3.1.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.1.1
+  origversion: 3.1.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.0.0
+  origversion: 3.0.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 2.7.0
+  origversion: 2.7.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 2.6.0
+  origversion: 2.6.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 2.5.0
+  origversion: 2.5.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com

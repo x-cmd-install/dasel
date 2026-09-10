@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.11.2"
   latestRelease: "v3.11.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:04:06Z
+  collectedAt: 2026-09-10T20:08:56Z
 timeline:
   created: 2020-09-22
   lastCommit: 2026-08-16
@@ -84,7 +84,7 @@ total:
   commit: 878
 ---
 path: /home/runner/.x-repo/github.com/tomwright/dasel
-collectedAt: 2026-09-10T16:04:08Z
+collectedAt: 2026-09-10T20:08:57Z
 loc:
   Go:
     code: 29903
