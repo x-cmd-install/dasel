@@ -12,7 +12,7 @@ Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI
 x install dasel
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **29,971** 行代码（覆盖前 5 种语言、共 **286** 个文件）。
 
@@ -48,11 +48,11 @@ x install dasel
 
 ## 流行度
 
-- **Star**: 8,029 · **Fork**: 174 · **开放 issue**: 207 · **贡献者**: 32
+- **Star**: 8,029 · **Fork**: 174 · **开放 issue**: 206 · **贡献者**: 32
 
 ## 累计统计
 
-- **发布数**: 110 · **已合并 PR**: 189 · **开放 PR**: 10 · **已关闭 issue**: 192 · **开放 issue**: 15 · **提交数**: 878
+- **发布数**: 110 · **已合并 PR**: 189 · **开放 PR**: 10 · **已关闭 issue**: 191 · **开放 issue**: 15 · **提交数**: 878
 
 ## 最近活动
 
@@ -111,4 +111,4 @@ dasel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:09:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:36:24Z._
