@@ -23,7 +23,27 @@ x install dasel
 - **Latest**: `v3.11.2` (2026-06-27)
 - **Last commit**: 2026-08-16
 - **Assets in release**: 16
-- **Published**: 2026-06-27T15:04:42Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dasel_darwin_amd64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_amd64) | 10.1 MiB | `native/darwin/x64` |
+| [dasel_darwin_amd64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_amd64.gz) | 3.8 MiB | `native/darwin/x64` |
+| [dasel_darwin_arm64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_arm64) | 9.4 MiB | `native/darwin/arm64` |
+| [dasel_darwin_arm64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_arm64.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [dasel_linux_386](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_386) | 9.3 MiB | `other` |
+| [dasel_linux_386.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_386.gz) | 3.6 MiB | `other` |
+| [dasel_linux_amd64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_amd64) | 10.0 MiB | `native/linux/x64` |
+| [dasel_linux_amd64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_amd64.gz) | 3.8 MiB | `native/linux/x64` |
+| [dasel_linux_arm32](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm32) | 9.4 MiB | `native/linux/arm` |
+| [dasel_linux_arm32.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm32.gz) | 3.6 MiB | `native/linux/arm` |
+| [dasel_linux_arm64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm64) | 9.3 MiB | `native/linux/arm64` |
+| [dasel_linux_arm64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm64.gz) | 3.4 MiB | `native/linux/arm64` |
+| [dasel_windows_386.exe](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_386.exe) | 9.6 MiB | `native/win/x64` |
+| [dasel_windows_386.exe.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_386.exe.gz) | 3.7 MiB | `native/win/x64` |
+| [dasel_windows_amd64.exe](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe) | 10.3 MiB | `native/win/x64` |
+| [dasel_windows_amd64.exe.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe.gz) | 3.9 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +88,8 @@ Lowest-scoring checks:
 Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dasel` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dasel.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dasel.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:15:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:12Z._

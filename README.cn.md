@@ -4,7 +4,7 @@
 
 Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 
-![dasel](https://repo.x-cmd.io/dasel.svg)
+![dasel](https://repo.x-cmd.io/dasel.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,27 @@ x install dasel
 - **最新版本**: `v3.11.2` (2026-06-27)
 - **最近提交**: 2026-08-16
 - **Release 含资产**: 16 个
-- **发布时间**: 2026-06-27T15:04:42Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dasel_darwin_amd64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_amd64) | 10.1 MiB | `native/darwin/x64` |
+| [dasel_darwin_amd64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_amd64.gz) | 3.8 MiB | `native/darwin/x64` |
+| [dasel_darwin_arm64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_arm64) | 9.4 MiB | `native/darwin/arm64` |
+| [dasel_darwin_arm64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_darwin_arm64.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [dasel_linux_386](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_386) | 9.3 MiB | `other` |
+| [dasel_linux_386.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_386.gz) | 3.6 MiB | `other` |
+| [dasel_linux_amd64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_amd64) | 10.0 MiB | `native/linux/x64` |
+| [dasel_linux_amd64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_amd64.gz) | 3.8 MiB | `native/linux/x64` |
+| [dasel_linux_arm32](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm32) | 9.4 MiB | `native/linux/arm` |
+| [dasel_linux_arm32.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm32.gz) | 3.6 MiB | `native/linux/arm` |
+| [dasel_linux_arm64](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm64) | 9.3 MiB | `native/linux/arm64` |
+| [dasel_linux_arm64.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_linux_arm64.gz) | 3.4 MiB | `native/linux/arm64` |
+| [dasel_windows_386.exe](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_386.exe) | 9.6 MiB | `native/win/x64` |
+| [dasel_windows_386.exe.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_386.exe.gz) | 3.7 MiB | `native/win/x64` |
+| [dasel_windows_amd64.exe](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe) | 10.3 MiB | `native/win/x64` |
+| [dasel_windows_amd64.exe.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe.gz) | 3.9 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +92,4 @@ dasel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:15:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:04:12Z._
