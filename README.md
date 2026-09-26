@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,043 · **Forks**: 174 · **Open issues**: 206 · **Contributors**: 32
+- **Stars**: 8,042 · **Forks**: 173 · **Open issues**: 206 · **Contributors**: 32
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 0 | 4 | 3 | 0 | 0 | 4 |
-| 90d | 2026-06-27 | 1 | 4 | 4 | 1 | 1 | 4 |
-| last180d | 2026-03-29 | 12 | 8 | 9 | 4 | 1 | 67 |
-| 360d | 2025-09-30 | 26 | 30 | 10 | 25 | 1 | 136 |
-| last720d | 2024-10-05 | 26 | 49 | 10 | 32 | 6 | 170 |
+| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 0 | 4 | 3 | 0 | 0 | 4 |
+| 90d | 2026-06-28 | 0 | 4 | 4 | 1 | 1 | 4 |
+| last180d | 2026-03-30 | 12 | 8 | 9 | 4 | 1 | 67 |
+| 360d | 2025-10-01 | 26 | 30 | 10 | 25 | 1 | 136 |
+| last720d | 2024-10-06 | 26 | 49 | 10 | 32 | 6 | 170 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T03:35:48Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T03:41:25Z._
