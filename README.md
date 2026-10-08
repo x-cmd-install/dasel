@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 1 | 3 | 0 | 0 | 1 |
-| 90d | 2026-07-09 | 0 | 4 | 5 | 1 | 1 | 4 |
-| last180d | 2026-04-10 | 11 | 8 | 10 | 4 | 1 | 65 |
-| 360d | 2025-10-12 | 26 | 30 | 11 | 24 | 1 | 134 |
-| last720d | 2024-10-17 | 26 | 47 | 11 | 32 | 6 | 168 |
+| 30d | 2026-09-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 1 | 3 | 0 | 0 | 1 |
+| 90d | 2026-07-10 | 0 | 4 | 5 | 1 | 1 | 4 |
+| last180d | 2026-04-11 | 11 | 8 | 10 | 4 | 1 | 65 |
+| 360d | 2025-10-13 | 26 | 30 | 11 | 24 | 1 | 134 |
+| last720d | 2024-10-18 | 26 | 47 | 11 | 32 | 5 | 168 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T04:28:55Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T04:39:50Z._
