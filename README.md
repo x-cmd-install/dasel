@@ -14,15 +14,15 @@ x install dasel
 
 ## Code insight
 
-Total: **29,971** lines of code across **286** files in the top 5 languages.
+Total: **30,130** lines of code across **286** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 29,903 | 970 | 3,501 | 275 |
+| Go | 30,062 | 985 | 3,517 | 275 |
 | Toml | 47 | 15 | 21 | 1 |
 | Dockerfile | 12 | 0 | 6 | 1 |
 | Yaml | 9 | 1 | 3 | 1 |
-| Markdown | 0 | 900 | 518 | 8 |
+| Markdown | 0 | 903 | 518 | 8 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-06-27)
-- **Last commit**: 2026-08-16
+- **Last commit**: 2026-10-15
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 8,044 · **Forks**: 175 · **Open issues**: 206 · **Contributors**: 32
+- **Stars**: 8,046 · **Forks**: 176 · **Open issues**: 206 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 110 · **Merged PRs**: 189 · **Open PRs**: 13 · **Closed issues**: 191 · **Open issues**: 15 · **Commits**: 878
+- **Releases**: 110 · **Merged PRs**: 192 · **Open PRs**: 9 · **Closed issues**: 192 · **Open issues**: 14 · **Commits**: 881
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 4 | 6 | 0 | 0 | 4 |
-| last180d | 2026-04-17 | 11 | 7 | 12 | 4 | 1 | 65 |
-| 360d | 2025-10-19 | 26 | 30 | 13 | 24 | 1 | 134 |
-| last720d | 2024-10-24 | 26 | 47 | 13 | 32 | 5 | 168 |
+| 30d | 2026-09-15 | 0 | 1 | 2 | 0 | 0 | 3 |
+| last60d | 2026-08-16 | 0 | 2 | 2 | 0 | 0 | 3 |
+| 90d | 2026-07-17 | 0 | 7 | 3 | 0 | 0 | 7 |
+| last180d | 2026-04-18 | 11 | 10 | 8 | 5 | 0 | 68 |
+| 360d | 2025-10-20 | 26 | 33 | 9 | 25 | 0 | 137 |
+| last720d | 2024-10-25 | 26 | 50 | 9 | 33 | 4 | 171 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T03:40:26Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T03:21:02Z._
