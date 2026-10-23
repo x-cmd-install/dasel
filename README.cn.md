@@ -58,12 +58,12 @@ x install dasel
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 4 | 0 | 0 | 3 |
-| last60d | 2026-08-23 | 0 | 1 | 4 | 0 | 0 | 3 |
-| 90d | 2026-07-24 | 0 | 7 | 5 | 0 | 0 | 7 |
-| last180d | 2026-04-25 | 11 | 10 | 10 | 4 | 0 | 33 |
-| 360d | 2025-10-27 | 26 | 33 | 11 | 24 | 0 | 137 |
-| last720d | 2024-11-01 | 26 | 50 | 11 | 33 | 3 | 171 |
+| 30d | 2026-09-23 | 0 | 1 | 4 | 0 | 0 | 3 |
+| last60d | 2026-08-24 | 0 | 1 | 4 | 0 | 0 | 3 |
+| 90d | 2026-07-25 | 0 | 7 | 5 | 0 | 0 | 7 |
+| last180d | 2026-04-26 | 7 | 10 | 10 | 4 | 0 | 33 |
+| 360d | 2025-10-28 | 26 | 33 | 11 | 24 | 0 | 137 |
+| last720d | 2024-11-02 | 26 | 50 | 11 | 33 | 3 | 171 |
 
 ## Release 资产
 
@@ -86,6 +86,22 @@ x install dasel
 | [dasel_windows_amd64.exe](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe) | 10.3 MiB | `native/win/x64` |
 | [dasel_windows_amd64.exe.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe.gz) | 3.9 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/dasel) 上共有 **92** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**50** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `3.11.2` | ✅ latest |
+| Debian 14 | `3.11.2` | ✅ latest |
+| Debian 13 | `2.8.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.8.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.6.0` | ⚠️ outdated |
+| Homebrew | `3.11.2` | ✅ latest |
+| Nix unstable | `3.11.2` | ✅ latest |
+| Void | `3.11.2` | ✅ latest |
+| Alpine edge | `2.8.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 dasel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dasel` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +111,4 @@ dasel 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T03:25:30Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T03:31:22Z._
