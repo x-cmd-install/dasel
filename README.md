@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 1 | 5 | 0 | 0 | 3 |
-| last60d | 2026-08-30 | 0 | 1 | 5 | 0 | 0 | 3 |
-| 90d | 2026-07-31 | 0 | 5 | 6 | 0 | 0 | 4 |
-| last180d | 2026-05-02 | 6 | 9 | 11 | 3 | 0 | 29 |
-| 360d | 2025-11-03 | 26 | 33 | 12 | 24 | 0 | 137 |
-| last720d | 2024-11-08 | 26 | 50 | 12 | 33 | 3 | 171 |
+| 30d | 2026-09-30 | 0 | 1 | 5 | 0 | 0 | 3 |
+| last60d | 2026-08-31 | 0 | 1 | 5 | 0 | 0 | 3 |
+| 90d | 2026-08-01 | 0 | 3 | 6 | 0 | 0 | 4 |
+| last180d | 2026-05-03 | 6 | 9 | 11 | 3 | 0 | 29 |
+| 360d | 2025-11-04 | 26 | 33 | 12 | 24 | 0 | 137 |
+| last720d | 2024-11-09 | 26 | 50 | 12 | 33 | 3 | 171 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **92** distros on [repology.org](https://repology.org/project/dasel). **19** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
+Reported by **92** distros on [repology.org](https://repology.org/project/dasel). **23** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,7 +100,7 @@ Reported by **92** distros on [repology.org](https://repology.org/project/dasel)
 | Homebrew | `3.11.2` | ✅ latest |
 | Nix unstable | `3.11.2` | ✅ latest |
 | Void | `3.11.2` | ✅ latest |
-| Alpine edge | `2.8.1` | ⚠️ outdated |
+| Alpine edge | `3.11.2` | ✅ latest |
 
 ## Improve this data
 
@@ -111,4 +111,4 @@ Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T04:31:43Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T04:31:27Z._
