@@ -22,7 +22,7 @@ Total: **30,130** lines of code across **286** files in the top 5 languages.
 | Toml | 47 | 15 | 21 | 1 |
 | Dockerfile | 12 | 0 | 6 | 1 |
 | Yaml | 9 | 1 | 3 | 1 |
-| Markdown | 0 | 903 | 518 | 8 |
+| Markdown | 0 | 904 | 518 | 8 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.11.2` (2026-06-27)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-11-02
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 8,055 · **Forks**: 180 · **Open issues**: 207 · **Contributors**: 34
+- **Stars**: 8,056 · **Forks**: 180 · **Open issues**: 207 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 110 · **Merged PRs**: 192 · **Open PRs**: 13 · **Closed issues**: 192 · **Open issues**: 15 · **Commits**: 881
+- **Releases**: 110 · **Merged PRs**: 193 · **Open PRs**: 12 · **Closed issues**: 193 · **Open issues**: 14 · **Commits**: 882
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 1 | 6 | 0 | 1 | 3 |
-| last60d | 2026-09-03 | 0 | 1 | 6 | 0 | 1 | 3 |
-| 90d | 2026-08-04 | 0 | 3 | 7 | 0 | 1 | 4 |
-| last180d | 2026-05-06 | 6 | 9 | 8 | 3 | 1 | 29 |
-| 360d | 2025-11-07 | 26 | 33 | 13 | 24 | 1 | 137 |
-| last720d | 2024-11-12 | 26 | 50 | 13 | 33 | 4 | 171 |
+| 30d | 2026-10-04 | 0 | 2 | 5 | 1 | 0 | 4 |
+| last60d | 2026-09-04 | 0 | 2 | 5 | 1 | 0 | 4 |
+| 90d | 2026-08-05 | 0 | 4 | 6 | 1 | 0 | 5 |
+| last180d | 2026-05-07 | 6 | 10 | 7 | 4 | 0 | 30 |
+| 360d | 2025-11-08 | 26 | 34 | 12 | 25 | 0 | 138 |
+| last720d | 2024-11-13 | 26 | 51 | 12 | 34 | 3 | 172 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T04:36:43Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T05:28:40Z._
