@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,076 · **Forks**: 184 · **Open issues**: 209 · **Contributors**: 35
+- **Stars**: 8,078 · **Forks**: 185 · **Open issues**: 209 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-19 | 0 | 1 | 6 | 1 | 2 | 1 |
-| last60d | 2026-09-19 | 0 | 2 | 10 | 1 | 2 | 4 |
-| 90d | 2026-08-20 | 0 | 2 | 10 | 1 | 2 | 4 |
-| last180d | 2026-05-22 | 2 | 8 | 11 | 3 | 2 | 12 |
-| 360d | 2025-11-23 | 26 | 33 | 17 | 25 | 2 | 138 |
-| last720d | 2024-11-28 | 26 | 51 | 17 | 34 | 5 | 172 |
+| 30d | 2026-10-20 | 0 | 1 | 6 | 1 | 2 | 1 |
+| last60d | 2026-09-20 | 0 | 2 | 10 | 1 | 2 | 4 |
+| 90d | 2026-08-21 | 0 | 2 | 10 | 1 | 2 | 4 |
+| last180d | 2026-05-23 | 2 | 8 | 11 | 3 | 2 | 12 |
+| 360d | 2025-11-24 | 26 | 33 | 17 | 25 | 2 | 138 |
+| last720d | 2024-11-29 | 26 | 51 | 17 | 34 | 5 | 172 |
 
 ## Release assets
 
@@ -97,7 +97,7 @@ Reported by **93** distros on [repology.org](https://repology.org/project/dasel)
 | Debian 13 | `2.8.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.8.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.6.0` | ⚠️ outdated |
-| Homebrew | `3.11.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `3.11.2` | ✅ latest |
 | Void | `3.11.2` | ✅ latest |
 | Alpine edge | `3.11.2` | ✅ latest |
@@ -111,4 +111,4 @@ Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261118.yml` · 2026-11-18T06:01:39Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T06:01:45Z._
