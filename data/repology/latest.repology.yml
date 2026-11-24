@@ -1,25 +1,3 @@
-- repo: homebrew
-  srcname: dasel
-  visiblename: dasel
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: JSON, YAML, TOML, XML, and CSV query and modification tool
-- repo: kali_rolling
-  subrepo: main
-  srcname: dasel
-  binnames:
-    - dasel
-    - golang-github-tomwright-dasel-dev
-  visiblename: dasel
-  version: 3.11.2
-  origversion: 3.11.2-2
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - puida@debian.org
-  categories:
-    - misc
 - repo: alpine_3_17
   subrepo: community
   srcname: dasel
@@ -59,6 +37,21 @@
     - michal@polanski.me
   licenses:
     - MIT
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - guilherme@puida.xyz
+  categories:
+    - universe/misc
 - repo: alpine_3_20
   subrepo: community
   srcname: dasel
@@ -67,6 +60,293 @@
   version: 2.7.0
   origversion: 2.7.0-r2
   status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.7.0
+  origversion: 2.7.0-r2
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.7.0
+  origversion: 2.7.0-r2
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.7.0
+  origversion: 2.7.0-r2
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r5
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.2
+  origversion: 3.2.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.3.0
+  origversion: 3.3.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r10
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r15
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 2.8.1
+  origversion: 2.8.1-r17
+  status: outdated
+  summary: Query and modify data structures using selector strings
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel-bash-completion
+  visiblename: dasel-bash-completion
+  version: 2.8.1
+  origversion: 2.8.1-r17
+  status: outdated
+  summary: Bash completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel-fish-completion
+  visiblename: dasel-fish-completion
+  version: 2.8.1
+  origversion: 2.8.1-r17
+  status: outdated
+  summary: Fish completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dasel
+  binname: dasel-zsh-completion
+  visiblename: dasel-zsh-completion
+  version: 2.8.1
+  origversion: 2.8.1-r17
+  status: outdated
+  summary: Zsh completions for dasel
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.3
+  origversion: 3.2.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alpine_edge
+  subrepo: community
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-r0
+  status: newest
   summary: Query and modify data structures using selector strings
   maintainers:
     - michal@polanski.me
@@ -85,281 +365,6 @@
     - michal@polanski.me
   licenses:
     - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: dasel
-  binname: dasel-bash-completion
-  visiblename: dasel-bash-completion
-  version: 2.7.0
-  origversion: 2.7.0-r2
-  status: outdated
-  summary: Bash completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: dasel
-  binname: dasel-fish-completion
-  visiblename: dasel-fish-completion
-  version: 2.7.0
-  origversion: 2.7.0-r2
-  status: outdated
-  summary: Fish completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: dasel
-  binname: dasel-zsh-completion
-  visiblename: dasel-zsh-completion
-  version: 2.7.0
-  origversion: 2.7.0-r2
-  status: outdated
-  summary: Zsh completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: dasel
-  binname: dasel
-  visiblename: dasel
-  version: 2.8.1
-  origversion: 2.8.1-r5
-  status: outdated
-  summary: Query and modify data structures using selector strings
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: dasel
-  binname: dasel-bash-completion
-  visiblename: dasel-bash-completion
-  version: 2.8.1
-  origversion: 2.8.1-r5
-  status: outdated
-  summary: Bash completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: dasel
-  binname: dasel-fish-completion
-  visiblename: dasel-fish-completion
-  version: 2.8.1
-  origversion: 2.8.1-r5
-  status: outdated
-  summary: Fish completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: dasel
-  binname: dasel-zsh-completion
-  visiblename: dasel-zsh-completion
-  version: 2.8.1
-  origversion: 2.8.1-r5
-  status: outdated
-  summary: Zsh completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: dasel
-  binname: dasel
-  visiblename: dasel
-  version: 2.8.1
-  origversion: 2.8.1-r10
-  status: outdated
-  summary: Query and modify data structures using selector strings
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: dasel
-  binname: dasel-bash-completion
-  visiblename: dasel-bash-completion
-  version: 2.8.1
-  origversion: 2.8.1-r10
-  status: outdated
-  summary: Bash completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: dasel
-  binname: dasel-fish-completion
-  visiblename: dasel-fish-completion
-  version: 2.8.1
-  origversion: 2.8.1-r10
-  status: outdated
-  summary: Fish completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: gnuguix
-  srcname: dasel
-  binname: dasel
-  visiblename: dasel
-  version: 3.11.1
-  origversion: null
-  status: outdated
-  summary: Tool to work with JSON, TOML, YAML, XML and CSV files
-- repo: alpine_3_22
-  subrepo: community
-  srcname: dasel
-  binname: dasel-zsh-completion
-  visiblename: dasel-zsh-completion
-  version: 2.8.1
-  origversion: 2.8.1-r10
-  status: outdated
-  summary: Zsh completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: dasel
-  binname: dasel
-  visiblename: dasel
-  version: 2.8.1
-  origversion: 2.8.1-r15
-  status: outdated
-  summary: Query and modify data structures using selector strings
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: dasel
-  binname: dasel-bash-completion
-  visiblename: dasel-bash-completion
-  version: 2.8.1
-  origversion: 2.8.1-r15
-  status: outdated
-  summary: Bash completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: dasel
-  binname: dasel-fish-completion
-  visiblename: dasel-fish-completion
-  version: 2.8.1
-  origversion: 2.8.1-r15
-  status: outdated
-  summary: Fish completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: dasel
-  binname: dasel-zsh-completion
-  visiblename: dasel-zsh-completion
-  version: 2.8.1
-  origversion: 2.8.1-r15
-  status: outdated
-  summary: Zsh completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: dasel
-  binname: dasel
-  visiblename: dasel
-  version: 2.8.1
-  origversion: 2.8.1-r17
-  status: outdated
-  summary: Query and modify data structures using selector strings
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: dasel
-  binname: dasel-bash-completion
-  visiblename: dasel-bash-completion
-  version: 2.8.1
-  origversion: 2.8.1-r17
-  status: outdated
-  summary: Bash completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: dasel
-  binname: dasel-fish-completion
-  visiblename: dasel-fish-completion
-  version: 2.8.1
-  origversion: 2.8.1-r17
-  status: outdated
-  summary: Fish completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: dasel
-  binname: dasel-zsh-completion
-  visiblename: dasel-zsh-completion
-  version: 2.8.1
-  origversion: 2.8.1-r17
-  status: outdated
-  summary: Zsh completions for dasel
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: community
-  srcname: dasel
-  binname: dasel
-  visiblename: dasel
-  version: 3.11.2
-  origversion: 3.11.2-r0
-  status: newest
-  summary: Query and modify data structures using selector strings
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: dasel
-  visiblename: dasel
-  version: 3.11.2
-  origversion: null
-  status: newest
-  summary: JSON, YAML, TOML, XML, and CSV query and modification tool
 - repo: alpine_edge
   subrepo: community
   srcname: dasel
@@ -433,6 +438,15 @@
   origversion: null
   status: outdated
   summary: Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- repo: wakemeops
+  subrepo: terminal
+  binname: dasel
+  visiblename: dasel
+  version: 3.2.1
+  origversion: 3.2.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: debian_13
   subrepo: trixie/main
   srcname: dasel
@@ -537,6 +551,43 @@
     - ISC
   categories:
     - app-misc
+- repo: gnuguix
+  srcname: dasel
+  binname: dasel
+  visiblename: dasel
+  version: 3.11.1
+  origversion: null
+  status: outdated
+  summary: Tool to work with JSON, TOML, YAML, XML and CSV files
+- repo: homebrew
+  srcname: dasel
+  visiblename: dasel
+  version: 3.11.2
+  origversion: null
+  status: newest
+  summary: JSON, YAML, TOML, XML, and CSV query and modification tool
+- repo: homebrew
+  srcname: dasel
+  visiblename: dasel
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: JSON, YAML, TOML, XML, and CSV query and modification tool
+- repo: kali_rolling
+  subrepo: main
+  srcname: dasel
+  binnames:
+    - dasel
+    - golang-github-tomwright-dasel-dev
+  visiblename: dasel
+  version: 3.11.2
+  origversion: 3.11.2-3
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - puida@debian.org
+  categories:
+    - misc
 - repo: liguros_stable
   srcname: app-misc/dasel
   visiblename: app-misc/dasel
@@ -652,7 +703,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: dasel
   binnames:
     - dasel
@@ -667,7 +718,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: dasel
   binnames:
     - dasel
@@ -813,21 +864,6 @@
     - universe/misc
 - repo: ubuntu_25_04
   subrepo: plucky/universe
-  srcname: dasel
-  binnames:
-    - dasel
-    - golang-github-tomwright-dasel-dev
-  visiblename: dasel
-  version: 2.8.1
-  origversion: 2.8.1-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - guilherme@puida.xyz
-  categories:
-    - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
   srcname: dasel
   binnames:
     - dasel
@@ -992,42 +1028,6 @@
   visiblename: dasel
   version: 3.3.1
   origversion: 3.3.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: dasel
-  visiblename: dasel
-  version: 3.3.0
-  origversion: 3.3.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: dasel
-  visiblename: dasel
-  version: 3.2.3
-  origversion: 3.2.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: dasel
-  visiblename: dasel
-  version: 3.2.2
-  origversion: 3.2.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: dasel
-  visiblename: dasel
-  version: 3.2.1
-  origversion: 3.2.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
