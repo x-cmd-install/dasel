@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,116 · **Forks**: 189 · **Open issues**: 209 · **Contributors**: 35
+- **Stars**: 8,124 · **Forks**: 189 · **Open issues**: 209 · **Contributors**: 35
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 6 | 1 | 2 | 1 |
-| last60d | 2026-09-28 | 0 | 2 | 11 | 1 | 2 | 4 |
-| 90d | 2026-08-29 | 0 | 2 | 11 | 1 | 2 | 4 |
-| last180d | 2026-05-31 | 2 | 8 | 12 | 3 | 2 | 12 |
-| 360d | 2025-12-02 | 26 | 33 | 18 | 24 | 2 | 138 |
-| last720d | 2024-12-07 | 26 | 51 | 18 | 34 | 5 | 172 |
+| 30d | 2026-10-29 | 0 | 1 | 6 | 1 | 2 | 1 |
+| last60d | 2026-09-29 | 0 | 2 | 11 | 1 | 2 | 4 |
+| 90d | 2026-08-30 | 0 | 2 | 11 | 1 | 2 | 4 |
+| last180d | 2026-06-01 | 2 | 8 | 12 | 3 | 2 | 12 |
+| 360d | 2025-12-03 | 26 | 33 | 18 | 24 | 2 | 138 |
+| last720d | 2024-12-08 | 26 | 51 | 18 | 34 | 5 | 172 |
 
 ## Release assets
 
@@ -86,22 +86,6 @@ Lowest-scoring checks:
 | [dasel_windows_amd64.exe](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe) | 10.3 MiB | `native/win/x64` |
 | [dasel_windows_amd64.exe.gz](https://github.com/tomwright/dasel/releases/download/v3.11.2/dasel_windows_amd64.exe.gz) | 3.9 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **93** distros on [repology.org](https://repology.org/project/dasel). **25** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.11.2` | ✅ latest |
-| Debian 14 | `3.11.2` | ✅ latest |
-| Debian 13 | `2.8.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.8.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.6.0` | ⚠️ outdated |
-| Homebrew | `3.11.2` | ✅ latest |
-| Nix unstable | `3.11.2` | ✅ latest |
-| Void | `3.11.2` | ✅ latest |
-| Alpine edge | `3.11.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dasel` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +95,4 @@ Install metadata for dasel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T06:53:08Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T06:26:32Z._
